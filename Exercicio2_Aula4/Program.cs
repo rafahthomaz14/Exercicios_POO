@@ -5,7 +5,7 @@ public class Program{
 
     public static void Main(string[] args){
 
-        // Exemplo de uso das classes Consultor, Vendedor e Gerente
+        
         Consultor consultor = new Consultor("João", "123.456.789-00", 50, 40);
         Vendedor vendedor = new Vendedor("Maria", "987.654.321-00", 0.05, 100);
         Gerente gerente = new Gerente("Carlos", "111.222.333-44", 500);
