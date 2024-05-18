@@ -5,6 +5,5 @@
 <h2>Assuntos Abordado:</h2>
  - Herança<br>
  - Classe<br>
- - List<><br>
  - Polimorfismo<br>
  - Herança com Sobrescrita (Abstract)
