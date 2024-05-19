@@ -1,0 +1,15 @@
+C:\Users\Rafael Thomaz\Desktop\Exercicio1_Aula5\bin\Debug\net7.0\Exercicio1_Aula5.exe
+C:\Users\Rafael Thomaz\Desktop\Exercicio1_Aula5\bin\Debug\net7.0\Exercicio1_Aula5.deps.json
+C:\Users\Rafael Thomaz\Desktop\Exercicio1_Aula5\bin\Debug\net7.0\Exercicio1_Aula5.runtimeconfig.json
+C:\Users\Rafael Thomaz\Desktop\Exercicio1_Aula5\bin\Debug\net7.0\Exercicio1_Aula5.dll
+C:\Users\Rafael Thomaz\Desktop\Exercicio1_Aula5\bin\Debug\net7.0\Exercicio1_Aula5.pdb
+C:\Users\Rafael Thomaz\Desktop\Exercicio1_Aula5\obj\Debug\net7.0\Exercicio1_Aula5.csproj.AssemblyReference.cache
+C:\Users\Rafael Thomaz\Desktop\Exercicio1_Aula5\obj\Debug\net7.0\Exercicio1_Aula5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael Thomaz\Desktop\Exercicio1_Aula5\obj\Debug\net7.0\Exercicio1_Aula5.AssemblyInfoInputs.cache
+C:\Users\Rafael Thomaz\Desktop\Exercicio1_Aula5\obj\Debug\net7.0\Exercicio1_Aula5.AssemblyInfo.cs
+C:\Users\Rafael Thomaz\Desktop\Exercicio1_Aula5\obj\Debug\net7.0\Exercicio1_Aula5.csproj.CoreCompileInputs.cache
+C:\Users\Rafael Thomaz\Desktop\Exercicio1_Aula5\obj\Debug\net7.0\Exercicio1_Aula5.dll
+C:\Users\Rafael Thomaz\Desktop\Exercicio1_Aula5\obj\Debug\net7.0\refint\Exercicio1_Aula5.dll
+C:\Users\Rafael Thomaz\Desktop\Exercicio1_Aula5\obj\Debug\net7.0\Exercicio1_Aula5.pdb
+C:\Users\Rafael Thomaz\Desktop\Exercicio1_Aula5\obj\Debug\net7.0\Exercicio1_Aula5.genruntimeconfig.cache
+C:\Users\Rafael Thomaz\Desktop\Exercicio1_Aula5\obj\Debug\net7.0\ref\Exercicio1_Aula5.dll
