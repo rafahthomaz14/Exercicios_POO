@@ -28,7 +28,7 @@ public class ControlePonto
         */
 
         string tipoEntrada = entrada ? "Entrando" : "Saindo";
-        Console.WriteLine("\n" + funcionario.Nome + " Esta " + tipoEntrada + "\nData: " + DateTime.Now);
-        Console.WriteLine("Cargo: " + funcionario.GetType().Name);
+        Console.WriteLine("\n{0} esta {1}\nData: {2}",funcionario.Nome, tipoEntrada , DateTime.Now); 
+        Console.WriteLine("Cargo: {0}",funcionario.GetType().Name);
     }
 }
